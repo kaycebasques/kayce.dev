@@ -1,7 +1,7 @@
 ====
-Home
+2026
 ====
 
 .. toctree::
 
-   forecasts/index
+   fed
