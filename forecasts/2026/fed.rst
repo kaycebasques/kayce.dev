@@ -1,28 +1,51 @@
-=============
-Fed Forecasts
-=============
+==================
+2026 Fed Forecasts
+==================
 
-In January 2026 I placed a bunch of bets on `Kalshi`_ related to the `Fed`_.
+My 2026 forecasts (and bets) related to the `Fed`_.
 
 ------
 Thesis
 ------
 
-The US economy will do fine this year. There will not be a big crisis that forces the Fed to resurrect the 2020 playbook. That means that the Fed will have to continue walking the tightrope between unemployment and inflation. They both continue to be real risks. I think that the Fed fears inflation more than unemployment. When deciding between one policy that A) reduces inflation but increases employment, and another policy that B) increases inflation but reduces employment, the Fed will choose A. That means we're only getting 2 cuts to the FFR this year. The labor market is obviously weak, so they can't do 0 cuts. A single cut seems very unlikely, psychologically. 2 cuts is the sweet spot. 3 is also possible if the labor market looks really bad. I think all the cuts will be 25 bps; none of the unusual 50 bps or 75 bps moves that we saw in 2022 and 2023. Crowd consensus is that the cuts will start in June. My non-consensus call is that they'll start in April. We absolutely are not getting a cut in January. Powell already signaled that. Add to the fact Depending on whether there's 2 or 3 cuts, and also the start month, the cuts are most likely to happen during the April, June, July, and September FOMC sessions. In the October and December sessions they'll go into "wait and see" mode. TODO Fed indepence 
+The US economy will do fine this year. There will not be a big deflationary
+crisis that forces the Fed to resurrect the 2020 playbook. Nor will there be a
+big inflationary crisis like 2022. It will be a continuation of 2025.
+Something is wrong with the labor market, but it's not obviously broken.
+Likewise, inflation is still stubbornly higher than where the Fed wants it.
+Policies that are good for employment are bad for inflation, and vice versa. I
+think the Fed fears inflation more than unemployment.
 
-Big Tech will struggle, which will be a headwind for ^SPX at large, but other sectors will be healthy, maybe even thriving. I.e. the underperformance of Big Tech will be counterbalanced by the outperformance of other sectors. 
+The White House's attack on the Fed's independence will backfire, big time.
+The Fed is now going to wait longer to cut the `Federal Funds Rate`_ (FFR),
+and they're going to do less cuts overall. I think Powell is going to take the
+unprecedented action of not leaving 
 
----------
-Forecasts
----------
-
+------------------
 Federal Funds Rate
-==================
+------------------
+
+FFR will end the year at 2.75-3.0 (3 cuts) or 3.0-3.25 (2 cuts). This is the
+sweet spot for giving the labor market some support, while also making sure that
+inflation stays in check.
+
+My initial forecast for `What will be the midpoint of the US federal funds
+target range at the end of 2026?`_:
+
+.. csv-table::
+   :header: "Answer", "Probability"
+
+   "Less than 2.25%", "5%"
+   "At least 2.25%, but less than 2.75%", "0%"
+   "At least 2.75%, but less than 3.25%", "75%"
+   "At least 3.25%, but less than 3.75%", "10%"
+   "3.75% or more", "10%"
+
+Less than 2.25% is possible in the event of a panic like 2008 or 2020.
+2.25-2.75% is a nonsensical range to me.
 
 January
--------
-
-The FOMC is for sure going to hold the range at 4.25-4.50. Powell clearly
+=======
 
 Positions:
 
@@ -33,35 +56,30 @@ Positions:
    "`How many dissenting votes at the next Fed meeting?`_", "1", "500", "38.76"
 
 March
------
+=====
 
 April
------
+=====
 
 June
-----
+====
 
 July
-----
+====
 
 September
----------
+=========
 
 October
--------
+=======
 
 December
---------
+========
 
-Dissenting votes at January meeting: 1
-======================================
-
-
-
-Emergency meeting
-=================
-
+.. _Federal Funds Rate: https://en.wikipedia.org/wiki/Federal_funds_rate
+.. _Good Judgment Open: https://www.gjopen.com
 .. _How many dissenting votes at the next Fed meeting?: https://kalshi.com/markets/kxfomcdissentcount/fomc-dissent-count/kxfomcdissentcount-26jan
 .. _Fed: https://en.wikipedia.org/wiki/Federal_Reserve
 .. _Fed decision in January?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jan
 .. _Kalshi: https://kalshi.com
+.. _What will be the midpoint of the US federal funds target range at the end of 2026?: https://www.gjopen.com/questions/4963

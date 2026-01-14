@@ -3,5 +3,6 @@
 ====
 
 .. toctree::
+   :maxdepth: 1
 
-   fed
+   Fed <fed>
