@@ -72,7 +72,7 @@ much in the December 2025 press conference. On top of that, a rate cut is now
 politically toxic in the short term because it's synonymous with acquiescing
 to Trump. On a related note, the era of dissenting votes is gone. Trump's
 mouthpiece (Miran) will be the only dissenting vote. Everyone else will vote in
-favor, as a symbolic act of asserting Fed independence.
+favor, as a symbolic act of asserting Fed independence. The December 2025 FOMC statement made it clear that there's already broad consensus to go into wait-and-see mode, anyways.
 
 `Kalshi`_ positions:
 
