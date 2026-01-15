@@ -1,8 +1,8 @@
-:Date: 2026-01-15
-
 ===
 Fed
 ===
+
+:Date: 2026 January 15
 
 My 2026 forecasts (and bets) related to the `Fed`_.
 
