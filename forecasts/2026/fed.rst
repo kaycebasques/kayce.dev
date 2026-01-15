@@ -1,8 +1,6 @@
-:title: Fed
-
-==================
-2026 Fed Forecasts
-==================
+===
+Fed
+===
 
 My 2026 forecasts (and bets) related to the `Fed`_.
 
