@@ -11,6 +11,7 @@ exclude_patterns = [
     "out",
     "venv"
 ]
+templates_path = ['_templates']
 
 # HTMl
 html_theme = 'basic'
