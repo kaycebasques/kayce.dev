@@ -77,7 +77,7 @@ favor, as a symbolic act of asserting Fed independence.
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
-   "`Fed decision in January?`_", "Yes", "50", "97.3"
+   "`Fed decision in January?`_", "Fed maintains rate" "Yes", "50", "97.3"
    "`How many dissenting votes at the next Fed meeting?`_", "1", "500", "38.76"
 
 March
@@ -86,26 +86,46 @@ March
 They'll probably hold in March. Inflation will still be too high. The labor
 market might be showing some cracks, but not enough to prompt action.
 
+.. csv-table::
+   :header: "Event", "Market", "Side", "Contracts", "Price"
+
+   "`Fed decision in March?`_", "Fed maintains rate" "Yes", "50", "73.4"
+
 April
 =====
 
 My non-consensus view is that the rate cuts start here. They'll have
 confidence in the economic data again, and it will look surprisingly bad.
 
+.. csv-table::
+   :header: "Event", "Market", "Side", "Contracts", "Price"
+
+   "`Fed decision in April?`_", "Cut 25bps" "Yes", "100", "30"
+
 June
 ====
 
 Rate cuts continue, or start here.
+
+.. csv-table::
+   :header: "Event", "Market", "Side", "Contracts", "Price"
+
+   "`Fed decision in June?`_", "Cut 25bps" "Yes", "100", "35.9"
 
 July
 ====
 
 Rate cuts maybe continue.
 
+.. csv-table::
+   :header: "Event", "Market", "Side", "Contracts", "Price"
+
+   "`Fed decision in July?`_", "Cut 25bps" "Yes", "50", "44"
+
 September
 =========
 
-The Fed goes into wait-and-see mode.
+Wait-and-see mode starts.
 
 October
 =======
@@ -121,6 +141,13 @@ Wait-and-see mode continues.
 .. _Good Judgment Open: https://www.gjopen.com
 .. _How many dissenting votes at the next Fed meeting?: https://kalshi.com/markets/kxfomcdissentcount/fomc-dissent-count/kxfomcdissentcount-26jan
 .. _Fed: https://en.wikipedia.org/wiki/Federal_Reserve
+.. _Fed decision in April?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26apr
+.. _Fed decision in December?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26dec
 .. _Fed decision in January?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jan
+.. _Fed decision in June?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jun
+.. _Fed decision in July?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jul
+.. _Fed decision in March?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26mar
+.. _Fed decision in October?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26oct
+.. _Fed decision in September?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep
 .. _Kalshi: https://kalshi.com
 .. _What will be the midpoint of the US federal funds target range at the end of 2026?: https://www.gjopen.com/questions/4963
