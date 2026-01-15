@@ -77,8 +77,8 @@ favor, as a symbolic act of asserting Fed independence.
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
-   "`Fed decision in January?`_", "Fed maintains rate" "Yes", "50", "97.3"
-   "`How many dissenting votes at the next Fed meeting?`_", "1", "500", "38.76"
+   "`Fed decision in January?`_", "Fed maintains rate", "Yes", "50", "97.3"
+   "`How many dissenting votes at the next Fed meeting?`_", "1", "Yes", "500", "38.76"
 
 March
 =====
@@ -89,7 +89,7 @@ market might be showing some cracks, but not enough to prompt action.
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
-   "`Fed decision in March?`_", "Fed maintains rate" "Yes", "50", "73.4"
+   "`Fed decision in March?`_", "Fed maintains rate", "Yes", "50", "73.4"
 
 April
 =====
@@ -100,7 +100,7 @@ confidence in the economic data again, and it will look surprisingly bad.
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
-   "`Fed decision in April?`_", "Cut 25bps" "Yes", "100", "30"
+   "`Fed decision in April?`_", "Cut 25bps", "Yes", "100", "30"
 
 June
 ====
@@ -110,7 +110,7 @@ Rate cuts continue, or start here.
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
-   "`Fed decision in June?`_", "Cut 25bps" "Yes", "100", "35.9"
+   "`Fed decision in June?`_", "Cut 25bps", "Yes", "100", "35.9"
 
 July
 ====
@@ -120,7 +120,7 @@ Rate cuts maybe continue.
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
-   "`Fed decision in July?`_", "Cut 25bps" "Yes", "50", "44"
+   "`Fed decision in July?`_", "Cut 25bps", "Yes", "50", "44"
 
 September
 =========

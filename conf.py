@@ -15,3 +15,4 @@ exclude_patterns = [
 # HTMl
 html_theme = 'basic'
 html_permalinks_icon = "§"
+html_short_title = 'kayce.dev'
