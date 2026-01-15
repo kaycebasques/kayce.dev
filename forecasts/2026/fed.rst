@@ -117,6 +117,15 @@ Kalshi positions:
 
    "`Fed decision in April?`_", "Cut 25bps", "Yes", "100", "30"
 
+GJO forecast for `At close of business on 29 April 2026, will the upper limit of the Federal Reserve's target range for the federal funds rate be lower, the same, or higher than it was at close of business on 18 March 2026?`_:
+
+.. csv-table::
+   :header: "Answer", "Probability"
+
+   "Lower", "55%"
+   "Same", "40%"
+   "Higher", "5%"
+
 June
 ====
 
@@ -157,6 +166,7 @@ December
 Wait-and-see mode continues.
 
 .. _At close of business on 18 March 2026, will the upper limit of the Federal Reserve's target range for the federal funds rate be lower, the same, or higher than it was at close of business on 28 January 2026?: https://www.gjopen.com/questions/4733
+.. _At close of business on 29 April 2026, will the upper limit of the Federal Reserve's target range for the federal funds rate be lower, the same, or higher than it was at close of business on 18 March 2026?: https://www.gjopen.com/questions/4871
 .. _Federal Funds Rate: https://en.wikipedia.org/wiki/Federal_funds_rate
 .. _GJO: https://www.gjopen.com
 .. _How many dissenting votes at the next Fed meeting?: https://kalshi.com/markets/kxfomcdissentcount/fomc-dissent-count/kxfomcdissentcount-26jan
