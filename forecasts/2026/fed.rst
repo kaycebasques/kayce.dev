@@ -33,8 +33,8 @@ FFR will end the year at 2.75-3.0% (3 cuts) or 3.0-3.25% (2 cuts). This is the
 sweet spot for giving the labor market some support, while also making sure that
 inflation stays in check.
 
-My initial forecast for `What will be the midpoint of the US federal funds
-target range at the end of 2026?`_:
+`GJO`_ forecast for `What will be the midpoint of the US federal funds target
+range at the end of 2026?`_:
 
 .. csv-table::
    :header: "Answer", "Probability"
@@ -88,6 +88,8 @@ March
 They'll probably hold in March. Inflation will still be too high. The labor
 market might be showing some cracks, but not enough to prompt action.
 
+Kalshi positions:
+
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
@@ -99,6 +101,8 @@ April
 My non-consensus view is that the rate cuts start here. They'll have
 confidence in the economic data again, and it will look surprisingly bad.
 
+Kalshi positions:
+
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
@@ -109,6 +113,8 @@ June
 
 Rate cuts continue, or start here.
 
+Kalshi positions:
+
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
 
@@ -118,6 +124,8 @@ July
 ====
 
 Rate cuts maybe continue.
+
+Kalshi positions:
 
 .. csv-table::
    :header: "Event", "Market", "Side", "Contracts", "Price"
@@ -140,7 +148,7 @@ December
 Wait-and-see mode continues.
 
 .. _Federal Funds Rate: https://en.wikipedia.org/wiki/Federal_funds_rate
-.. _Good Judgment Open: https://www.gjopen.com
+.. _GJO: https://www.gjopen.com
 .. _How many dissenting votes at the next Fed meeting?: https://kalshi.com/markets/kxfomcdissentcount/fomc-dissent-count/kxfomcdissentcount-26jan
 .. _Fed: https://en.wikipedia.org/wiki/Federal_Reserve
 .. _Fed decision in April?: https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26apr
