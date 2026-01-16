@@ -18,12 +18,10 @@ they push too hard on policies to fight inflation, they might trigger an
 unemployment crisis. And vice versa. I think the Fed fears inflation more than
 unemployment.
 
-The White House's attack on the Fed's independence will backfire. The Fed is
-now going to wait longer to cut the `Federal Funds Rate`_ (FFR), and they're
-going to do less cuts overall.
+The White House's attack on the Fed's independence will backfire. The Fed will do less `Federal Funds Rate`_ (FFR) cuts overall than they might have otherwise done, ceteris paribus.
 
 The shutdown disrupted the flow of economic data. The Fed will move slower
-because it's less sure of the data it's seeing.
+because it's less sure of the data it's seeing. The Fed is also suspicious of the White House massaging the numbers to make the economy look better on paper.
 
 ------------------
 Federal Funds Rate
@@ -31,7 +29,7 @@ Federal Funds Rate
 
 FFR will end the year at 2.75-3.0% (3 cuts) or 3.0-3.25% (2 cuts). This is the
 sweet spot for giving the labor market some support, while also making sure that
-inflation stays in check.
+inflation stays in check. I think 2 cuts is more likely than 3.
 
 `GJO`_ forecast for `What will be the midpoint of the US federal funds target
 range at the end of 2026?`_:
