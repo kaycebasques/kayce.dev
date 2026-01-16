@@ -18,10 +18,10 @@ they push too hard on policies to fight inflation, they might trigger an
 unemployment crisis. And vice versa. I think the Fed fears inflation more than
 unemployment.
 
-The White House's attack on the Fed's independence will backfire. The Fed will do less `Federal Funds Rate`_ (FFR) cuts overall than they might have otherwise done, ceteris paribus.
+The White House's attack on the Fed's independence will backfire. The Fed will do less `Federal Funds Rate`_ (FFR) cuts overall than they might have otherwise, ceteris paribus. I.e. in a situation where cutting rates and maintaining rates are both plausible, the Fed is more likely to maintain now.
 
 The shutdown disrupted the flow of economic data. The Fed will move slower
-because it's less sure of the data it's seeing. The Fed is also suspicious of the White House massaging the numbers to make the economy look better on paper.
+because it's less sure of the data it's seeing. The Fed is also suspicious of the White House manipulating the numbers.
 
 ------------------
 Federal Funds Rate
