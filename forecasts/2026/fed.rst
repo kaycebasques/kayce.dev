@@ -45,11 +45,9 @@ range at the end of 2026?`_:
 
 Rationale for each answer:
 
-* "Less than 2.25%" is possible in the event of a panic like 2008 or 2020.
+* "Less than 2.25%" is possible in the event of a deflationary panic like 2008 or 2020. Because of the inflation risks (and the bad reputation of ZIRP), maybe they would take it down to 1% this time around, rather than 0.
 
-* "At least 2.25%, but less than 2.75%" is the least likely in my book. The Fed
-  would have to cut in 4 or 5 meetings, or do cuts larger than 25 bps. That's
-  too risky on the inflation front. 
+* "At least 2.25%, but less than 2.75%" is the hardest for me to imagine. This would be 25 bps cuts in 4 or 5 FOMC meetings. The labor market would need to somehow significantly deteriorate, but in an orderly fashion. And inflation would have to somehow stop being a concern at the same time.
 
 * "At least 2.75%, but less than 3.25%" is 2 or 3 cuts. That sounds most
   likely. The labor market will show enough weakness to necessitate some cuts,
@@ -57,10 +55,10 @@ Rationale for each answer:
 
 * "At least 3.25%, but less than 3.75%" is 0 or 1 cuts. It's possible that the
   Fed does a single cut, and then inflation comes roaring back and they
-  have to stop the cuts.
+  have to stop the cutting campaign.
 
 * 3.75% or more" is also possible if inflation comes roaring back before April,
-  which is the earliest that the Fed will plausibly begin FFR cuts.
+  which is the earliest that the Fed will plausibly begin cuts.
 
 January
 =======
@@ -70,7 +68,7 @@ much in the December 2025 press conference. On top of that, a rate cut is now
 politically toxic in the short term because it's synonymous with acquiescing
 to Trump. On a related note, the era of dissenting votes is gone. Trump's
 mouthpiece (Miran) will be the only dissenting vote. Everyone else will vote in
-favor, as a symbolic act of asserting Fed independence. The December 2025 FOMC statement made it clear that there's already broad consensus to go into wait-and-see mode, anyways.
+favor, as a symbolic act of asserting Fed independence. The December 2025 FOMC statement also made it clear that there's already broad consensus to go into wait-and-see mode, anyways.
 
 `Kalshi`_ positions:
 
@@ -105,7 +103,7 @@ GJO forecast for `At close of business on 18 March 2026, will the upper limit of
 April
 =====
 
-My non-consensus view is that the rate cuts start here. They'll have
+My non-consensus view is that the rate cuts start in April. They'll have
 confidence in the economic data again, and it will look surprisingly bad.
 
 Kalshi positions:
@@ -127,7 +125,7 @@ GJO forecast for `At close of business on 29 April 2026, will the upper limit of
 June
 ====
 
-Rate cuts continue, or start here.
+Rate cuts continue, or start here. Either way, much more likely to have cuts in June than to hold or hike.
 
 Kalshi positions:
 
